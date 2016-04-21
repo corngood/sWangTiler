@@ -48,7 +48,7 @@ public class ApplicationWindow extends JFrame implements ActionListener
    // Allowed number of tiles
    public final static List<Integer> ALLOWED_NUMBER_OF_TILES = Arrays.asList(new Integer[] { 4, 8, 16 });
    // Allowed tile resolutions
-   public final static List<Integer> ALLOWED_RESOLUTIONS = Arrays.asList(new Integer[] { 16, 32, 64, 128 });
+   public final static List<Integer> ALLOWED_RESOLUTIONS = Arrays.asList(new Integer[] { 16, 32, 64, 128  });
 
    // Application title
    private final static String TITLE = "Wang Tiler";
